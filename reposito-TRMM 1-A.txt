@@ -1,0 +1,4 @@
+reposito syibranmalasyi
+-pertemuan ke-13 praktikum membuat reposito dengan github
+-nama file syibranmalasyi
+-ketika file dibuka akan menunjukkan nama syibranmalasyi
